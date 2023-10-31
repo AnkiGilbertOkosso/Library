@@ -1,5 +1,5 @@
 
-```markdown
+
 # Library Management System
 
 The Library Management System is a command-line application for managing a library's collection, allowing users to borrow and return books, and staff members to maintain the library's resources. The project is implemented in Python and uses JSON for data storage.
@@ -8,7 +8,7 @@ The Library Management System is a command-line application for managing a libra
 
 The project is organized as follows:
 
-```
+```markdown
 library_system/
 ├── modules/
 │   ├── book.py
@@ -73,7 +73,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions or feedback, please contact ankigilbertokosso@gmail.com.
 
-Happy reading!
-```
-
-Make sure to replace `Anki Gilbert Okosso` and `ankigilbertokosso@gmail.com` with your information or leave them blank if you prefer not to share contact details. You can also update the "License" section to match your chosen license if necessary.
